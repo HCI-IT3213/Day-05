@@ -31,7 +31,7 @@ The goal of this session is to implement a **fixed navigation bar**.
 
 ---
 
-## Hosted Project on Axure Cloud ☁️
+## Hosted Project on Axure Cloud 
 The project will be hosted on **Axure Cloud** for easy access and interaction. You can view the live prototype by clicking the link below:
 
 🔗 **[Axure Cloud Project Link](https://uc8sri.axshare.com)**  
